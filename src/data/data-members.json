@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Miguel",
+    "profile": "miguelssilva"
+  },
+  {
+    "id": 2,
+    "name": "Gael",
+    "profile": "gaeldeert"
+  },
+  {
+    "id": 3,
+    "name": "Helena",
+    "profile": "hetecomp"
+  },
+  {
+    "id": 4,
+    "name": "Arthur",
+    "profile": "artdantas"
+  },
+  {
+    "id": 5,
+    "name": "Alice",
+    "profile": "aliceavant"
+  },
+  {
+    "id": 6,
+    "name": "Heitor",
+    "profile": "heitorlca"
+  }
+]
